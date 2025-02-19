@@ -16,8 +16,6 @@ A **cross-platform** image compression tool that supports **PNG, JPG, JPEG, and 
 ---
 
 ## 🛠 Installation Guide
-`WARNING! FOR 20-30% COMPRESSION USE THE DEPRECATED STABLE PYTHON CODE, OTHERWISE USING
-MORE LIBRARIES AND GETTING 60-70% COMPRESSION USE THE LATEST RELEASE PYTHON CODE.`
 
 ### **1️⃣ Install Python** (Skip if already installed)
 
@@ -134,4 +132,13 @@ If you want to **turn this into a standalone app** (so you don’t need to run P
    pyinstaller --onefile --windowed image_compressor.py
    ```
 3. The executable will be in the `dist/` folder.
+
+---
+
+## Warning
+For Windows users I recommend using v1.0.0 because for this specific OS, 1.1.0 is unstable and sometimes
+will not give expected results. For macOS and Linux users, please use v1.1.0 because in this case, 1.1.0 is more
+stable and has better compression rates. For setting up v1.0.0, use the "deprecated" version of the README and
+python code. For setting up v1.1.0 use the latest version of the README and python code.
+
 
