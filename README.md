@@ -1,11 +1,11 @@
 # ResizePNG
 
-A **cross-platform** image compression tool that supports **PNG, JPG, JPEG, and WebP**. Allows you to manually adjust compression levels and supports **batch processing** & **drag-and-drop functionality**. Works **100% offline**!
+A **cross-platform** image compression tool that supports **PNG, JPG, JPEG, and WEBP**. Allows you to manually adjust compression levels and supports **batch processing** & **drag-and-drop functionality**. Works **100% offline**!
 
 ---
 
 ##  Features
-✅ **Compress PNG, JPG, JPEG, and WebP files**  
+✅ **Compress PNG, JPG, JPEG, and WEBP files**  
 ✅ **Batch compression** (Select & compress multiple images at once)  
 ✅ **Drag & Drop support** (Simply drag images into the app)  
 ✅ **Manual compression level adjustment** via a slider  
