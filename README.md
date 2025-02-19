@@ -135,10 +135,10 @@ If you want to **turn this into a standalone app** (so you don’t need to run P
 
 ---
 
-## Warning
-For Windows users I recommend using v1.0.0 because for this specific OS, 1.1.0 is unstable and sometimes
-will not give expected results. For macOS and Linux users, please use v1.1.0 because in this case, 1.1.0 is more
-stable and has better compression rates. For setting up v1.0.0, use the "deprecated" version of the README and
-python code. For setting up v1.1.0 use the latest version of the README and python code.
+## ⚠️ Warning
+For Windows users I recommend using **v1.0.0** because for this specific OS, **1.1.0** is unstable and sometimes
+will not give expected results. For macOS and Linux users, please use **v1.1.0** because in this case, **1.1.0** is more
+stable and has better compression rates. For setting up **v1.0.0**, use the "deprecated" version of the README and
+python code. For setting up **v1.1.0** use the *latest version* of the README and python code.
 
 
