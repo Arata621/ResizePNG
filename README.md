@@ -140,3 +140,8 @@ If you want to **turn this into a standalone app** (so you don’t need to run P
    ```
 3. The executable will be in the `dist/` folder.
 
+## Attributions
+---
+Banner Icon (at the very top) made by Freepik. (www.freepik.com)
+
+
