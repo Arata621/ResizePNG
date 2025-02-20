@@ -142,6 +142,4 @@ If you want to **turn this into a standalone app** (so you don’t need to run P
 
 ## Attributions
 ---
-Banner Icon (at the very top) made by Freepik. (www.freepik.com)
-
-
+The banner icon used in this project was designed by [Freepik](https://www.freepik.com).
