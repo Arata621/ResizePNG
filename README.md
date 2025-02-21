@@ -142,4 +142,4 @@ If you want to **turn this into a standalone app** (so you don’t need to run P
 
 ## Attributions
 ---
-The banner icon used in this project was designed by [Freepik](https://www.freepik.com).
+This project is not affiliated with any existing entity named Ant Press. The name `antpress` is used solely for this open-source image compression tool.
