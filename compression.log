@@ -1,0 +1,4 @@
+[2025-02-21 10:15:23] INFO: Compressed image1.png - Reduced by 67%
+[2025-02-21 10:16:02] INFO: Compressed image2.jpg - Reduced by 45%
+[2025-02-21 10:16:15] WARNING: image3.webp - Already optimized, skipping.
+[2025-02-21 10:17:01] ERROR: Failed to process corrupted_file.png
