@@ -100,14 +100,14 @@ sudo apt install pngquant jpegoptim
 4. **Run the script**:
    - **Windows**:
      ```bash
-     python image_compressor.py
+     python antpress.py
      ```
    - **macOS/Linux**:
      ```bash
-     python3 image_compressor.py
+     python3 antpress.py
      ```
 
-🎉 **The Image Compressor UI will open!**
+🎉 **The Antpress Python Application UI will open!**
 - Click **"Select Images & Compress"**
 - Choose multiple PNG/JPG/WebP files
 - Adjust the **slider** for compression level
@@ -125,7 +125,7 @@ If you want to **turn this into a standalone app** (so you don’t need to run P
    ```
 2. Convert script to an executable:
    ```bash
-   pyinstaller --onefile --windowed image_compressor.py
+   pyinstaller --onefile --windowed antpress.py
    ```
 3. Your `.exe` file will be in the `dist/` folder.
 
@@ -136,7 +136,7 @@ If you want to **turn this into a standalone app** (so you don’t need to run P
    ```
 2. Run:
    ```bash
-   pyinstaller --onefile --windowed image_compressor.py
+   pyinstaller --onefile --windowed antpress.py
    ```
 3. The executable will be in the `dist/` folder.
 
