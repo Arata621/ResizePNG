@@ -86,7 +86,7 @@ sudo apt install pngquant jpegoptim
 ---
 
 ### **3️⃣ Run the Compressor**
-1. **Download the script** & save it as `image_compressor.py`
+1. **Download the script** & save it as `antpress.py` (Already done for you)
 2. Open **Terminal / Command Prompt**
 3. Navigate to the script's folder:
    - **Windows**:
