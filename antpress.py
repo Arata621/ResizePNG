@@ -41,7 +41,7 @@ def drop_handler(event):
 
 # GUI Setup
 root = tk.Tk()
-root.title("Squirreless")
+root.title("Antpress")
 root.geometry("400x250")
 root.configure(bg="white")
 
