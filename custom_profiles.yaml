@@ -1,0 +1,10 @@
+profiles:
+  - name: "High Compression"
+    png_quality: 30
+    jpeg_quality: 50
+    webp_quality: 40
+
+  - name: "Lossless Mode"
+    png_quality: 100
+    jpeg_quality: 100
+    webp_quality: 100
