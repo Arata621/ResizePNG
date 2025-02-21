@@ -1,6 +1,6 @@
 ![Squirreless Banner](https://raw.githubusercontent.com/Arata621/Squirreless/main/Config/banner-antpress.png)
 
-# antpress
+# antpress v1.1
 
 A **cross-platform** image compression tool that supports **PNG, JPG, JPEG, and WebP**. Allows you to manually adjust compression levels and supports **batch processing** & **drag-and-drop functionality**. Works **100% offline**!
 
