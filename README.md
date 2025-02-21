@@ -1,4 +1,4 @@
-![Squirreless Banner](https://raw.githubusercontent.com/Arata621/Squirreless/main/Config/banner-v2.png)
+![Squirreless Banner](https://raw.githubusercontent.com/Arata621/Squirreless/main/Config/banner-antpress.png)
 
 # squirreless.py
 
