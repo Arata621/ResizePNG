@@ -1,4 +1,4 @@
-![Squirreless Banner](https://raw.githubusercontent.com/Arata621/Squirreless/main/Config/antpress-logo2.png)
+![Squirreless Banner](https://raw.githubusercontent.com/Arata621/Squirreless/main/Config/antpress-logo-2.png)
 
 # antpress v1.1
 
